@@ -5,3 +5,10 @@ C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\NameSurname\NameSurname\obj\De
 C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\NameSurname\NameSurname\obj\Debug\NameSurname.exe
 C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\NameSurname\NameSurname\obj\Debug\NameSurname.pdb
 C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\NameSurname\NameSurname\obj\Debug\NameSurname.csprojResolveAssemblyReference.cache
+D:\C#  Das\my project\GitHub\Homework-C-\NameSurname\NameSurname\obj\Debug\NameSurname.csprojResolveAssemblyReference.cache
+D:\C#  Das\my project\GitHub\Homework-C-\NameSurname\NameSurname\obj\Debug\NameSurname.csproj.CoreCompileInputs.cache
+D:\C#  Das\my project\GitHub\Homework-C-\NameSurname\NameSurname\obj\Debug\NameSurname.exe
+D:\C#  Das\my project\GitHub\Homework-C-\NameSurname\NameSurname\obj\Debug\NameSurname.pdb
+D:\C#  Das\my project\GitHub\Homework-C-\NameSurname\NameSurname\bin\Debug\NameSurname.exe.config
+D:\C#  Das\my project\GitHub\Homework-C-\NameSurname\NameSurname\bin\Debug\NameSurname.exe
+D:\C#  Das\my project\GitHub\Homework-C-\NameSurname\NameSurname\bin\Debug\NameSurname.pdb
