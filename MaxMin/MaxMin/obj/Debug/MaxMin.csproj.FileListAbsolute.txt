@@ -1,0 +1,7 @@
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\MaxMin\MaxMin\bin\Debug\MaxMin.exe.config
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\MaxMin\MaxMin\bin\Debug\MaxMin.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\MaxMin\MaxMin\bin\Debug\MaxMin.pdb
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\MaxMin\MaxMin\obj\Debug\MaxMin.csprojResolveAssemblyReference.cache
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\MaxMin\MaxMin\obj\Debug\MaxMin.csproj.CoreCompileInputs.cache
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\MaxMin\MaxMin\obj\Debug\MaxMin.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\MaxMin\MaxMin\obj\Debug\MaxMin.pdb

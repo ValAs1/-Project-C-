@@ -1,0 +1,7 @@
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Длина окружности круга\Длина окружности круга\bin\Debug\Длина окружности круга.exe.config
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Длина окружности круга\Длина окружности круга\bin\Debug\Длина окружности круга.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Длина окружности круга\Длина окружности круга\bin\Debug\Длина окружности круга.pdb
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Длина окружности круга\Длина окружности круга\obj\Debug\Длина окружности круга.csprojResolveAssemblyReference.cache
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Длина окружности круга\Длина окружности круга\obj\Debug\Длина окружности круга.csproj.CoreCompileInputs.cache
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Длина окружности круга\Длина окружности круга\obj\Debug\Длина окружности круга.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Длина окружности круга\Длина окружности круга\obj\Debug\Длина окружности круга.pdb

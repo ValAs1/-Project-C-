@@ -1,0 +1,7 @@
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Целые числа\Целые числа\bin\Debug\Целые числа.exe.config
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Целые числа\Целые числа\bin\Debug\Целые числа.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Целые числа\Целые числа\bin\Debug\Целые числа.pdb
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Целые числа\Целые числа\obj\Debug\Целые числа.csproj.CoreCompileInputs.cache
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Целые числа\Целые числа\obj\Debug\Целые числа.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Целые числа\Целые числа\obj\Debug\Целые числа.pdb
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Целые числа\Целые числа\obj\Debug\Целые числа.csprojResolveAssemblyReference.cache

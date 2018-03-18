@@ -1,0 +1,7 @@
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\площадь круга\площадь круга\bin\Debug\площадь круга.exe.config
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\площадь круга\площадь круга\bin\Debug\площадь круга.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\площадь круга\площадь круга\bin\Debug\площадь круга.pdb
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\площадь круга\площадь круга\obj\Debug\площадь круга.csproj.CoreCompileInputs.cache
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\площадь круга\площадь круга\obj\Debug\площадь круга.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\площадь круга\площадь круга\obj\Debug\площадь круга.pdb
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\площадь круга\площадь круга\obj\Debug\площадь круга.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\NameSurname\NameSurname\bin\Debug\NameSurname.exe.config
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\NameSurname\NameSurname\bin\Debug\NameSurname.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\NameSurname\NameSurname\bin\Debug\NameSurname.pdb
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\NameSurname\NameSurname\obj\Debug\NameSurname.csproj.CoreCompileInputs.cache
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\NameSurname\NameSurname\obj\Debug\NameSurname.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\NameSurname\NameSurname\obj\Debug\NameSurname.pdb
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\NameSurname\NameSurname\obj\Debug\NameSurname.csprojResolveAssemblyReference.cache

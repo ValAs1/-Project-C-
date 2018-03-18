@@ -1,0 +1,7 @@
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\равно или не\равно или не\bin\Debug\равно или не.exe.config
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\равно или не\равно или не\bin\Debug\равно или не.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\равно или не\равно или не\bin\Debug\равно или не.pdb
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\равно или не\равно или не\obj\Debug\равно или не.csprojResolveAssemblyReference.cache
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\равно или не\равно или не\obj\Debug\равно или не.csproj.CoreCompileInputs.cache
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\равно или не\равно или не\obj\Debug\равно или не.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\равно или не\равно или не\obj\Debug\равно или не.pdb

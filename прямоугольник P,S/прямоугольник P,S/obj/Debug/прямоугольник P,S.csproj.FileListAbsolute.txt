@@ -1,0 +1,7 @@
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\прямоугольник P,S\прямоугольник P,S\bin\Debug\прямоугольник P,S.exe.config
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\прямоугольник P,S\прямоугольник P,S\bin\Debug\прямоугольник P,S.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\прямоугольник P,S\прямоугольник P,S\bin\Debug\прямоугольник P,S.pdb
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\прямоугольник P,S\прямоугольник P,S\obj\Debug\прямоугольник P,S.csprojResolveAssemblyReference.cache
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\прямоугольник P,S\прямоугольник P,S\obj\Debug\прямоугольник P,S.csproj.CoreCompileInputs.cache
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\прямоугольник P,S\прямоугольник P,S\obj\Debug\прямоугольник P,S.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\прямоугольник P,S\прямоугольник P,S\obj\Debug\прямоугольник P,S.pdb

@@ -1,0 +1,7 @@
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Converter  m to s\Converter  m to s\bin\Debug\Converter  m to s.exe.config
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Converter  m to s\Converter  m to s\bin\Debug\Converter  m to s.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Converter  m to s\Converter  m to s\bin\Debug\Converter  m to s.pdb
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Converter  m to s\Converter  m to s\obj\Debug\Converter  m to s.csprojResolveAssemblyReference.cache
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Converter  m to s\Converter  m to s\obj\Debug\Converter  m to s.csproj.CoreCompileInputs.cache
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Converter  m to s\Converter  m to s\obj\Debug\Converter  m to s.exe
+C:\Users\KIP\Desktop\VALAS\C#\Tasks\Tasks 2\Tasks\Converter  m to s\Converter  m to s\obj\Debug\Converter  m to s.pdb
