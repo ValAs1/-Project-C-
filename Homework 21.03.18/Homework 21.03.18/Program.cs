@@ -10,6 +10,7 @@ namespace Homework_21._03._18
     {
         static void Main(string[] args)
         {
+            //Ներմուծեք Հայկի, Վահանի ու Արսենի աշխատավարձերը, հաշվեք նրանցից ամենաշատ ստացողը որքան է շատ ստանում ամենաքիչ ստացողից
             Console.Write("Hayk's salary");
             string hayk = Console.ReadLine();
             double h = double.Parse(hayk);
@@ -22,35 +23,23 @@ namespace Homework_21._03._18
             if(h>v & h>a)
             {
                 if (v >a)
-                {
                     Console.WriteLine(h - a);
-                }
                 else
-                {
                     Console.WriteLine(h-v);
-                }
             }
             else if(v>h & v>a)
             {
                 if (h>a)
-                {
                     Console.WriteLine(v - a);
-                }
                 else
-                {
                     Console.WriteLine(v - h);
-                }
             }
             else if(a>h & a>v)
             {
                 if (h>v)
-                {
                     Console.WriteLine(a - h);
-                }
                 else
-                {
                     Console.WriteLine(a-v);
-                }
             }
             
             Console.ReadLine();
