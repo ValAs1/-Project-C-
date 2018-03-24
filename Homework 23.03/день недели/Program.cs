@@ -10,6 +10,7 @@ namespace день_недели
     {
         static void Main(string[] args)
         {
+            //Ներմուծեք շաբաթվա օրերին համապատասխան թիվը, արտածեք համապատասխան օրը՝ 2>երեքշաբթի
             Console.WriteLine("Nermwucel   shabatva  or 1-7 ");
             Console.Write("a =  ");
            string  a = Console.ReadLine();
@@ -52,8 +53,8 @@ namespace день_недели
             //Console.WriteLine(d.DayOfWeek);  //shabatva  or
 
 
-            Console.WriteLine(d.Date);   //amsativ
-            Console.WriteLine(d.Day);  //amsva   or
+            //Console.WriteLine(d.Date);   //amsativ
+            //Console.WriteLine(d.Day);  //amsva   or
             Console.WriteLine(d.DayOfWeek);  //shabatva  or
 
             Console.ReadLine();
