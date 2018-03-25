@@ -47,14 +47,7 @@ namespace день_недели
             //}
 
 
-            //DateTime d = DateTime.Now;
-            //Console.WriteLine(d.Date);   //amsativ
-            //Console.WriteLine(d.Day);  //amsva   or
-            //Console.WriteLine(d.DayOfWeek);  //shabatva  or
-
-
-            //Console.WriteLine(d.Date);   //amsativ
-            //Console.WriteLine(d.Day);  //amsva   or
+            
             Console.WriteLine(d.DayOfWeek);  //shabatva  or
 
             Console.ReadLine();
