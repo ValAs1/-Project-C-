@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework 23.03", "Homework 23.03\Homework 23.03.csproj", "{C48FCA40-11AB-44C6-BF17-80786B357A0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a,b  tveri max min", "Homework 23.03\a,b  tveri max min.csproj", "{C48FCA40-11AB-44C6-BF17-80786B357A0F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abc  tveri  max min", "abc  tveri  max min\abc  tveri  max min.csproj", "{D6E4A8D8-4D97-4D64-AD4E-D7B17EA0C7B1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a  tiv", "a  tiv\a  tiv.csproj", "{35BEE718-CA40-4ED5-8C91-1D98600A188D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "день недели", "день недели\день недели.csproj", "{1B754FC0-13EA-4F41-BEAB-8D604F82B9F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a,b,c,d  tver", "a,b,c,d  tver\a,b,c,d  tver.csproj", "{5B3B2EC9-22F0-4116-8DCB-AA477E25E09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hayruravor,  tasnavor,  miavor", "hayruravor,  tasnavor,  miavor\hayruravor,  tasnavor,  miavor.csproj", "{EDCAAB5D-E8A1-45BC-B662-EC157D0DD0DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a, b,c,   tarber  tver", "a, b,c,   tarber  tver\a, b,c,   tarber  tver.csproj", "{8D210203-AA9E-447C-884D-4C662ED9C637}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{1B754FC0-13EA-4F41-BEAB-8D604F82B9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B754FC0-13EA-4F41-BEAB-8D604F82B9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B754FC0-13EA-4F41-BEAB-8D604F82B9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3B2EC9-22F0-4116-8DCB-AA477E25E09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3B2EC9-22F0-4116-8DCB-AA477E25E09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3B2EC9-22F0-4116-8DCB-AA477E25E09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3B2EC9-22F0-4116-8DCB-AA477E25E09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCAAB5D-E8A1-45BC-B662-EC157D0DD0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCAAB5D-E8A1-45BC-B662-EC157D0DD0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCAAB5D-E8A1-45BC-B662-EC157D0DD0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCAAB5D-E8A1-45BC-B662-EC157D0DD0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D210203-AA9E-447C-884D-4C662ED9C637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D210203-AA9E-447C-884D-4C662ED9C637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D210203-AA9E-447C-884D-4C662ED9C637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D210203-AA9E-447C-884D-4C662ED9C637}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

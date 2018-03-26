@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abcd tver", "abcd tver\abcd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hayruravor tasnavor miavor", "hayruravor tasnavor miavor\hayruravor tasnavor miavor.csproj", "{1DEBD96E-F8EE-47E4-88C1-B082DE4BC31D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{8B83963C-264E-4435-B1F3-9AEEA9A2DA16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{8CBDDA8F-F864-4264-A4FC-77AEAA21FD9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{1DEBD96E-F8EE-47E4-88C1-B082DE4BC31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DEBD96E-F8EE-47E4-88C1-B082DE4BC31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DEBD96E-F8EE-47E4-88C1-B082DE4BC31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B83963C-264E-4435-B1F3-9AEEA9A2DA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B83963C-264E-4435-B1F3-9AEEA9A2DA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B83963C-264E-4435-B1F3-9AEEA9A2DA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B83963C-264E-4435-B1F3-9AEEA9A2DA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CBDDA8F-F864-4264-A4FC-77AEAA21FD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBDDA8F-F864-4264-A4FC-77AEAA21FD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBDDA8F-F864-4264-A4FC-77AEAA21FD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBDDA8F-F864-4264-A4FC-77AEAA21FD9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
