@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework 28.03", "Homework 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "erankyun", "erankyun\erankyun.csproj", "{A312AA59-36C7-47B5-8EB4-BD52F6651352}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubo  liq@", "Rubo  liq@\Rubo  liq@.csproj", "{EA9BF4AD-DDEE-40F4-85EA-3B4A864AA82B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uxankyun", "uxankyun\uxankyun.csproj", "{421347B1-AC58-40A6-B596-FE771440D47C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A312AA59-36C7-47B5-8EB4-BD52F6651352}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A312AA59-36C7-47B5-8EB4-BD52F6651352}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A312AA59-36C7-47B5-8EB4-BD52F6651352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA9BF4AD-DDEE-40F4-85EA-3B4A864AA82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA9BF4AD-DDEE-40F4-85EA-3B4A864AA82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA9BF4AD-DDEE-40F4-85EA-3B4A864AA82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA9BF4AD-DDEE-40F4-85EA-3B4A864AA82B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421347B1-AC58-40A6-B596-FE771440D47C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421347B1-AC58-40A6-B596-FE771440D47C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421347B1-AC58-40A6-B596-FE771440D47C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421347B1-AC58-40A6-B596-FE771440D47C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

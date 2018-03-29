@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework_28._03
+namespace Rubo__liq_
 {
     class Program
     {
         static void Main(string[] args)
         {
-           
             Console.Write("n  - ");
             int n = int.Parse(Console.ReadLine());
 
@@ -22,28 +21,21 @@ namespace Homework_28._03
                     {
                         Console.Write(" ");
                     }
-                    else if (j ==i)
-                    {    
+                    else if (j == i)
+                    {
                         Console.Write("*");
                     }
                 }
-              
-                for (int k = 1; k <i ; k++)
+
+                for (int k = 1; k < i; k++)
 
                 {
-                    Console.Write(" ");
+                    Console.Write("*");
                 }
 
                 for (int h = 1; h <= i - 1; h++)
                 {
-                    if (h < i-1)
-                    {
-                        Console.Write(" ");
-                    }
-                    else if (h== i-1)
-                    {
-                        Console.Write("*");
-                    }
+                    Console.Write("*");
                 }
 
                 Console.WriteLine();
@@ -66,26 +58,19 @@ namespace Homework_28._03
                 for (int k = n; k > v; k--)
 
                 {
-                    Console.Write(" ");
+                    Console.Write("*");
                 }
 
-                for (int h = n-2; h >= v - 1; h--)
+                for (int h = n - 2; h >= v - 1; h--)
                 {
-                    if (h > v - 1)
-                    {
-                        Console.Write(" ");
-                    }
-                    else if (h == v - 1)
-                    {
-                        Console.Write("*");
-                    }
+                    Console.Write("*");
+                    
                 }
 
                 Console.WriteLine();
             }
 
             Console.ReadLine();
-
         }
     }
 }
