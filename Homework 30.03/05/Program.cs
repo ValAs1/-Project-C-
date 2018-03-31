@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _02
+namespace _05
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // Հաշվե թվային զանգվածի էլեմենտների գումարը։
+            //Գտնել թվային զանգվածի էլեմենտներից մեծագույնը։
 
             Console.WriteLine("введите размер массива");
             Console.Write("n=");
@@ -19,14 +19,17 @@ namespace _02
             Console.WriteLine("введите элементы массива");
             for (int i = 0; i < Array.Length; i++)
             {
-              Array[i] = double.Parse(Console.ReadLine());
+                Array[i] = double.Parse(Console.ReadLine());
             }
-            double SumArray = 0;
+            double max = Array[0];
             for (int i = 0; i < Array.Length; i++)
             {
-                SumArray += Array[i];
+                if (max < Array[i])
+                {
+                    max = Array[i];
+                }
             }
-            Console.Write("сумма массива - " + SumArray );
+            Console.Write(" Max - " + max);
             Console.ReadLine();
         }
     }

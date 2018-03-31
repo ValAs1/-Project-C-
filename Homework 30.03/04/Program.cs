@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _02
+namespace _04
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // Հաշվե թվային զանգվածի էլեմենտների գումարը։
+            //Գտնել թվային զանգվածի էլեմենտներից փոքրագույնը։
 
             Console.WriteLine("введите размер массива");
             Console.Write("n=");
@@ -19,14 +19,17 @@ namespace _02
             Console.WriteLine("введите элементы массива");
             for (int i = 0; i < Array.Length; i++)
             {
-              Array[i] = double.Parse(Console.ReadLine());
+                Array[i] = double.Parse(Console.ReadLine());
             }
-            double SumArray = 0;
+            double min = Array[0];
             for (int i = 0; i < Array.Length; i++)
             {
-                SumArray += Array[i];
+                if(min>Array[i])
+                {
+                    min = Array[i];
+                }
             }
-            Console.Write("сумма массива - " + SumArray );
+            Console.Write(" Min - " + min);
             Console.ReadLine();
         }
     }

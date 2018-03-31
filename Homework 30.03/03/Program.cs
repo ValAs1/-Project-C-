@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _02
+namespace _03
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // Հաշվե թվային զանգվածի էլեմենտների գումարը։
+            //Հաշվել թվային զանգվածի էլեմենտների արտադրյալը։
 
             Console.WriteLine("введите размер массива");
             Console.Write("n=");
@@ -19,14 +19,14 @@ namespace _02
             Console.WriteLine("введите элементы массива");
             for (int i = 0; i < Array.Length; i++)
             {
-              Array[i] = double.Parse(Console.ReadLine());
+                Array[i] = double.Parse(Console.ReadLine());
             }
-            double SumArray = 0;
+            double result = 1;
             for (int i = 0; i < Array.Length; i++)
             {
-                SumArray += Array[i];
+                result *= Array[i];
             }
-            Console.Write("сумма массива - " + SumArray );
+            Console.Write("Результат умножения элементов массива - " + result);
             Console.ReadLine();
         }
     }
