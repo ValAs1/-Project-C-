@@ -22,15 +22,18 @@ namespace _12
                 arr[i] = int.Parse(Console.ReadLine());
             }
             int result = 1;
-            for (int i = 0; i < arr.Length-1; i++)
+            for (int i = 0; i < arr.Length; i++)
             {
-               if(arr[i] -i > 0)
-                {
-                    result *= arr[i];
-                    Console.WriteLine(result);
-                }
                 
+                if (arr[i] -i > 0)
+                {
+                    
+                    result *= arr[i];
+                   
+                }
+              
             }
+            Console.WriteLine(result);
             Console.ReadLine();
         }
     }
